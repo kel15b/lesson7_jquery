@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 15, 2017
 
 ### Student Name:  
-(First and Last Name)
+Kelli LaBelle
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We learned how to change the differenet viewing ways to see recipe and ingredients on a site. 
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kel15b.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to change the color of something after it has been hovered over.
+2. I learned how to add an animation to the words that have a description with it.
+3. I learned there is a JavaScript Console Pane, as well as how to use it.
 
